@@ -35,8 +35,8 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
+   git clone https://github.com/username/SchoolManagement.git
+   cd SchoolManagement
    ```
 
 2. **Install Dependencies**:
@@ -54,13 +54,13 @@ To set up the project locally, follow these steps:
 3. **Run the Server**:
    Navigate to the server directory and start the backend server:
    ```bash
-   npm start
+   npm start run
    ```
 
 4. **Run the Client**:
    Navigate to the client directory and start the frontend:
    ```bash
-   npm start
+   npm start run
    ```
 
 ## Usage
