@@ -1,4 +1,4 @@
-# School Management CRM (Front - End)
+# School Management CRM (Front and back end)
 
 ## Overview
 
